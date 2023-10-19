@@ -3,7 +3,7 @@
 Simple node.js app that servers "hello world"
 
 Great for testing simple deployments to the cloud
-jenskin
+jenskin 1212
 
 ## Create a .tgz file
 
